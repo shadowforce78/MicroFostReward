@@ -1,0 +1,9 @@
+C:\Users\adamp\source\repos\Microfost Reward\bin\Release\Microfost Reward.exe.config
+C:\Users\adamp\source\repos\Microfost Reward\bin\Release\Microfost Reward.exe
+C:\Users\adamp\source\repos\Microfost Reward\bin\Release\Microfost Reward.pdb
+C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost_Reward.Form1.resources
+C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost_Reward.Properties.Resources.resources
+C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost Reward.csproj.GenerateResource.cache
+C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost Reward.csproj.CoreCompileInputs.cache
+C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost Reward.exe
+C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost Reward.pdb
