@@ -7,3 +7,4 @@ C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost Reward.csproj
 C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost Reward.csproj.CoreCompileInputs.cache
 C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost Reward.exe
 C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost Reward.pdb
+C:\Users\adamp\source\repos\Microfost Reward\obj\Release\Microfost Reward.csprojAssemblyReference.cache

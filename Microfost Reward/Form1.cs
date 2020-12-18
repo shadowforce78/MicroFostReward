@@ -72,7 +72,7 @@ namespace Microfost_Reward
             Process.Start("https://www.bing.com/search?q=twelve%20search");
             Process.Start("https://www.bing.com/search?q=thirteen%20search");
             Process.Start("https://www.bing.com/search?q=fourteen%20search");
-            Process.Start("https://www.bing.com/search?q=hentai");
+            Process.Start("https://www.bing.com/search?q=belle%20delphine");
             Process.Start("https://www.bing.com/search?q=fifteen%20search");
             Process.Start("https://www.bing.com/search?q=sixteen%20search");
             Process.Start("https://www.bing.com/search?q=seventeen%20search");
